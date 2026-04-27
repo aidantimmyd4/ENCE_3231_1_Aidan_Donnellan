@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Spider_im")(type "KiCad")(uri "/home/timmy/KiCAD/Final_Nano_Every_Shield/Spider_im.pretty")(options "")(descr ""))
+)
