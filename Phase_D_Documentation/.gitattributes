@@ -1,0 +1,5 @@
+# Force GitHub to treat KiCad tracking history as binary blocks instead of viewable code
+*.kicad_pcb binary
+*.kicad_sch binary
+.history/** binary
+*-backups/** binary
